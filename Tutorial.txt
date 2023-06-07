@@ -1,0 +1,28 @@
+		                               Tutorial & Info Space Battle
+
+		Tutorial
+
+		Layout of the game:
+  
+ 		 X   X   X   X   X                 			X = Spacecraft to destroy
+                                    
+   		         ^                        			^ = shoot
+  
+      		      <- x ->                      			x = Spacecraft that we control 
+
+		
+		Scope:
+
+		Lo scopo del gioco e' quello di distruggere, con la tua navicella, le navicelle nemiche
+		prima che esse arrivino da te.
+		The aim of the game is to destroy the enemy spacecraft before they get to you
+
+		Commands:
+		Per muovere la tua navicella a destra e sinistra utilizzerai le freccette < >
+		For move spacecraft use arrow keys to move left and right
+
+		Per sparare dalla tua navicella utilizzerai la barra spaziatrice
+		To shoot from the ship use the spacebar
+
+
+ 
