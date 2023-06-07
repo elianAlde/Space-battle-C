@@ -18,4 +18,10 @@ To access the program, follow these steps:
 
 ## Program goal
 
-Follow the tutorial inside the game
+Follow the tutorial inside the game but this is a preview of the main menu:
+
+![Immagine 2023-06-08 010300](https://github.com/elianAlde/Space-battle-C/assets/117550137/e12467a2-d68d-458f-b292-f6faca1bccdb)
+
+And the game screen:
+
+![Immagine 2023-06-08 010121](https://github.com/elianAlde/Space-battle-C/assets/117550137/c8ecd663-4be1-4638-b4d4-edda15492dc1)
